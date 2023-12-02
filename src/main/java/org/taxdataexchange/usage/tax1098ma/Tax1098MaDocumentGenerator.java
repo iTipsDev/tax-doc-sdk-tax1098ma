@@ -56,7 +56,7 @@ public class Tax1098MaDocumentGenerator {
         Tax1098MaPdfBuilder pdfBuilder = new Tax1098MaPdfBuilder( );
         byte[] bytes = pdfBuilder.buildQr( taxDataList );
 
-        String filePath = "samples/Tax1098Ma.sample.png";
+        String filePath = "samples/Tax1098Ma.qr.png";
         FileUtils.bytesToFile( bytes, filePath );
         System.out.println( filePath );
 
@@ -84,6 +84,12 @@ public class Tax1098MaDocumentGenerator {
         String filePath = "samples/Tax1098Ma.sample.pdf";
         FileUtils.bytesToFile( pdfBytes, filePath );
         System.out.println( filePath );
+
+        String filePathPng = "samples/Tax1098Ma.sample.png";
+        byte[] pngBytes = Pdf2PngConverter.convertBytes( pdfBytes );
+        FileUtils.bytesToFile( pngBytes, filePathPng );
+        System.out.println( filePathPng );
+
 
     }
 
