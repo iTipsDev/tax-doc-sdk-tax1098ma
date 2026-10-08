@@ -1,0 +1,52 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "36-468-0373",
+  "taxFormId" : "8656811",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0344648",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Wolf, Vandervort and Schuster"
+    },
+    "address" : {
+      "line1" : "597 Kulas Crescent",
+      "city" : "North Nell",
+      "region" : "OK",
+      "postalCode" : "15662",
+      "unitType" : "Apt",
+      "unitNumber" : "794"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "tony.roob@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-43-4521",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Gracie",
+      "middle" : "Rosalie",
+      "last" : "Mohr"
+    },
+    "businessName" : {
+      "name1" : "Ferry, Mayer and Wunsch"
+    },
+    "address" : {
+      "line1" : "72420 Jenelle Crescent",
+      "city" : "Bodeburgh",
+      "region" : "GA",
+      "postalCode" : "91055",
+      "unitType" : "Apt",
+      "unitNumber" : "805"
+    },
+    "email" : "nicolas.hill@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "755-51160-0",
+  "totalMortgagePayments" : 200,
+  "mortgageAssistancePayments" : 300,
+  "homeownerMortgagePayments" : 400
+}

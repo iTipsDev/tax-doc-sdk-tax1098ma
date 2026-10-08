@@ -1,0 +1,52 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "60-050-3124",
+  "taxFormId" : "2716810",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0344648",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Wolf, Vandervort and Schuster"
+    },
+    "address" : {
+      "line1" : "597 Kulas Crescent",
+      "city" : "North Nell",
+      "region" : "OK",
+      "postalCode" : "15662",
+      "unitType" : "Apt",
+      "unitNumber" : "794"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "tony.roob@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-25-6881",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Jeramy",
+      "middle" : "Cleotilde",
+      "last" : "Steuber"
+    },
+    "businessName" : {
+      "name1" : "Schultz-Hills"
+    },
+    "address" : {
+      "line1" : "78918 Michael Stream",
+      "city" : "Territown",
+      "region" : "NH",
+      "postalCode" : "21584",
+      "unitType" : "Apt",
+      "unitNumber" : "882"
+    },
+    "email" : "shaquita.huel@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "960-49938-4",
+  "totalMortgagePayments" : 200,
+  "mortgageAssistancePayments" : 300,
+  "homeownerMortgagePayments" : 400
+}

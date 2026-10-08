@@ -1,0 +1,52 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "14-864-7750",
+  "taxFormId" : "5315943",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0344648",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Wolf, Vandervort and Schuster"
+    },
+    "address" : {
+      "line1" : "597 Kulas Crescent",
+      "city" : "North Nell",
+      "region" : "OK",
+      "postalCode" : "15662",
+      "unitType" : "Apt",
+      "unitNumber" : "794"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "tony.roob@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-96-6866",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Marchelle",
+      "middle" : "Monroe",
+      "last" : "Zboncak"
+    },
+    "businessName" : {
+      "name1" : "McCullough LLC"
+    },
+    "address" : {
+      "line1" : "66933 Susy Light",
+      "city" : "North Ignacioside",
+      "region" : "MN",
+      "postalCode" : "31148",
+      "unitType" : "Apt",
+      "unitNumber" : "947"
+    },
+    "email" : "marlena.dibbert@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "942-28563-3",
+  "totalMortgagePayments" : 200,
+  "mortgageAssistancePayments" : 300,
+  "homeownerMortgagePayments" : 400
+}
